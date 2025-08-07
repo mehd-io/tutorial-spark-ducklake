@@ -1,0 +1,101 @@
+order_id,customer_id,product_name,category,quantity,unit_price,total_amount,discount_rate,final_amount,order_date,region,sales_rep,is_priority,status
+ORD-000001,CUST-0298,Smartphone X,Accessories,2,1505.05,3010.1,0.02,2949.9,2024-11-15,Middle East,Alice Johnson,0,shipped
+ORD-000002,CUST-0331,Graphics Card,Accessories,8,702.61,5620.88,0.168,4676.57,2024-07-28,Asia Pacific,Bob Smith,1,delivered
+ORD-000003,CUST-0165,Hard Drive 1TB,Computers,1,965.15,965.15,0.145,825.2,2024-10-18,Europe,Eve Brown,1,processing
+ORD-000004,CUST-0232,Gaming Mouse,Computers,4,1046.41,4185.64,0.094,3792.19,2024-07-31,Middle East,Jack Anderson,1,delivered
+ORD-000005,CUST-0401,Graphics Card,Gaming,6,275.72,1654.32,0.07,1538.52,2024-10-22,Asia Pacific,Bob Smith,0,delivered
+ORD-000006,CUST-0027,Hard Drive 1TB,Electronics,9,1808.71,16278.39,0.018,15985.38,2024-03-09,Europe,Henry Taylor,1,shipped
+ORD-000007,CUST-0079,Hard Drive 1TB,Gaming,9,1824.72,16422.48,0.034,15864.12,2024-04-05,North America,Bob Smith,0,pending
+ORD-000008,CUST-0310,Router WiFi,Electronics,6,1832.27,10993.62,0.062,10312.02,2024-02-10,Europe,Alice Johnson,1,shipped
+ORD-000009,CUST-0445,SSD 500GB,Computers,1,84.5,84.5,0.075,78.16,2024-01-06,Europe,Ivy Wang,0,shipped
+ORD-000010,CUST-0196,Hard Drive 1TB,Electronics,7,1696.26,11873.82,0.108,10591.45,2024-05-25,Latin America,Henry Taylor,0,delivered
+ORD-000011,CUST-0254,Smart Watch,Audio,2,1749.76,3499.52,0.1,3149.57,2024-04-06,Latin America,Frank Miller,0,delivered
+ORD-000012,CUST-0266,Wireless Headphones,Electronics,10,411.63,4116.3,0.13,3581.18,2024-01-19,Latin America,Carol Davis,1,processing
+ORD-000013,CUST-0053,Wireless Headphones,Gaming,3,229.03,687.09,0.195,553.11,2024-07-30,North America,Carol Davis,1,delivered
+ORD-000014,CUST-0152,Tablet Ultra,Accessories,1,1080.91,1080.91,0.054,1022.54,2024-07-23,North America,Eve Brown,1,processing
+ORD-000015,CUST-0471,Webcam HD,Computers,9,1208.94,10880.46,0.107,9716.25,2024-05-04,North America,Eve Brown,1,shipped
+ORD-000016,CUST-0155,Smart Watch,Accessories,7,1253.09,8771.63,0.179,7201.51,2024-10-06,Latin America,Carol Davis,1,cancelled
+ORD-000017,CUST-0114,Wireless Headphones,Accessories,3,555.66,1666.98,0.007,1655.31,2024-11-30,Asia Pacific,Bob Smith,0,shipped
+ORD-000018,CUST-0480,Webcam HD,Electronics,2,427.43,854.86,0.127,746.29,2024-07-19,Latin America,Grace Chen,1,delivered
+ORD-000019,CUST-0427,Smartphone X,Gaming,10,1902.63,19026.3,0.083,17447.12,2024-01-20,Europe,Bob Smith,1,pending
+ORD-000020,CUST-0153,Processor Intel,Electronics,6,1287.83,7726.98,0.16,6490.66,2024-12-08,North America,Jack Anderson,1,processing
+ORD-000021,CUST-0221,Hard Drive 1TB,Gaming,9,1126.25,10136.25,0.134,8777.99,2024-02-28,Europe,Jack Anderson,0,shipped
+ORD-000022,CUST-0221,Processor Intel,Electronics,5,1706.36,8531.8,0.062,8002.83,2024-10-12,Asia Pacific,Eve Brown,1,shipped
+ORD-000023,CUST-0096,Speaker Bluetooth,Computers,4,734.75,2939.0,0.184,2398.22,2024-09-22,Europe,Carol Davis,0,cancelled
+ORD-000024,CUST-0232,Tablet Ultra,Electronics,3,1689.31,5067.93,0.037,4880.42,2024-07-17,Middle East,Grace Chen,0,cancelled
+ORD-000025,CUST-0215,Keyboard Mechanical,Gaming,1,784.48,784.48,0.085,717.8,2024-01-16,Middle East,Grace Chen,0,shipped
+ORD-000026,CUST-0457,Tablet Ultra,Electronics,5,159.12,795.6,0.117,702.51,2024-11-05,Asia Pacific,Bob Smith,1,shipped
+ORD-000027,CUST-0157,Tablet Ultra,Computers,2,909.03,1818.06,0.054,1719.88,2024-01-10,Asia Pacific,Grace Chen,0,shipped
+ORD-000028,CUST-0116,Smartphone X,Electronics,5,989.16,4945.8,0.134,4283.06,2024-04-09,Asia Pacific,Jack Anderson,0,shipped
+ORD-000029,CUST-0148,Monitor 4K,Accessories,1,128.42,128.42,0.179,105.43,2024-11-28,Europe,Bob Smith,0,processing
+ORD-000030,CUST-0077,Router WiFi,Accessories,6,435.24,2611.44,0.037,2514.82,2024-03-07,Latin America,David Wilson,0,shipped
+ORD-000031,CUST-0060,Hard Drive 1TB,Audio,1,967.61,967.61,0.096,874.72,2024-12-21,North America,David Wilson,0,delivered
+ORD-000032,CUST-0070,"Laptop Pro 15""",Accessories,1,1764.24,1764.24,0.058,1661.91,2024-06-06,Europe,Grace Chen,0,shipped
+ORD-000033,CUST-0026,Smartphone X,Gaming,10,441.22,4412.2,0.122,3873.91,2024-03-27,Europe,Frank Miller,1,processing
+ORD-000034,CUST-0124,Wireless Headphones,Gaming,7,1828.06,12796.42,0.123,11222.46,2024-07-18,Middle East,Jack Anderson,1,cancelled
+ORD-000035,CUST-0278,Smart Watch,Electronics,10,1037.01,10370.1,0.166,8648.66,2024-05-01,Asia Pacific,Eve Brown,0,cancelled
+ORD-000036,CUST-0427,Smart Watch,Accessories,5,1840.09,9200.45,0.196,7397.16,2024-09-27,Middle East,Ivy Wang,0,delivered
+ORD-000037,CUST-0330,Keyboard Mechanical,Gaming,3,1119.49,3358.47,0.13,2921.87,2024-04-09,Middle East,David Wilson,0,shipped
+ORD-000038,CUST-0395,Wireless Headphones,Electronics,5,1196.91,5984.55,0.192,4835.52,2024-07-15,North America,Eve Brown,1,shipped
+ORD-000039,CUST-0341,Hard Drive 1TB,Computers,5,637.52,3187.6,0.117,2814.65,2024-09-10,Europe,Jack Anderson,0,processing
+ORD-000040,CUST-0055,Graphics Card,Electronics,1,1733.76,1733.76,0.044,1657.47,2024-07-01,Middle East,Grace Chen,1,shipped
+ORD-000041,CUST-0208,Smart Watch,Accessories,8,1627.31,13018.48,0.013,12849.24,2024-01-24,Asia Pacific,Eve Brown,0,processing
+ORD-000042,CUST-0325,Webcam HD,Electronics,1,901.65,901.65,0.017,886.32,2024-09-08,North America,Eve Brown,0,delivered
+ORD-000043,CUST-0079,Webcam HD,Electronics,6,391.84,2351.04,0.166,1960.77,2024-04-21,North America,Eve Brown,0,shipped
+ORD-000044,CUST-0045,Wireless Headphones,Gaming,2,1211.72,2423.44,0.092,2200.48,2024-08-28,North America,Ivy Wang,0,cancelled
+ORD-000045,CUST-0408,Keyboard Mechanical,Accessories,9,129.71,1167.39,0.116,1031.97,2024-08-28,Europe,Henry Taylor,1,cancelled
+ORD-000046,CUST-0130,SSD 500GB,Audio,7,1545.92,10821.44,0.119,9533.69,2024-05-17,Latin America,Alice Johnson,0,processing
+ORD-000047,CUST-0179,"Laptop Pro 15""",Computers,7,1311.24,9178.68,0.139,7902.84,2024-03-28,Latin America,Bob Smith,0,shipped
+ORD-000048,CUST-0141,SSD 500GB,Electronics,6,719.21,4315.26,0.002,4306.63,2024-10-12,Middle East,Ivy Wang,1,cancelled
+ORD-000049,CUST-0198,Router WiFi,Electronics,1,1614.55,1614.55,0.115,1428.88,2024-11-23,Latin America,Bob Smith,1,shipped
+ORD-000050,CUST-0153,Router WiFi,Accessories,3,690.78,2072.34,0.182,1695.17,2024-04-12,Middle East,Frank Miller,0,delivered
+ORD-000051,CUST-0121,Tablet Ultra,Audio,1,1501.45,1501.45,0.197,1205.66,2024-02-22,Europe,Eve Brown,0,pending
+ORD-000052,CUST-0421,Smart Watch,Accessories,4,930.39,3721.56,0.129,3241.48,2024-06-20,Europe,Bob Smith,0,cancelled
+ORD-000053,CUST-0134,Router WiFi,Gaming,7,358.65,2510.55,0.086,2294.64,2024-01-03,Latin America,Alice Johnson,1,delivered
+ORD-000054,CUST-0276,Processor Intel,Audio,5,167.21,836.05,0.135,723.18,2024-05-17,North America,Ivy Wang,1,processing
+ORD-000055,CUST-0012,Tablet Ultra,Computers,4,1966.05,7864.2,0.132,6826.13,2024-01-02,Latin America,Frank Miller,1,processing
+ORD-000056,CUST-0486,Speaker Bluetooth,Audio,6,1229.43,7376.58,0.142,6329.11,2024-10-25,North America,Henry Taylor,0,delivered
+ORD-000057,CUST-0015,Smartphone X,Audio,3,978.92,2936.76,0.052,2784.05,2024-02-10,Europe,Ivy Wang,0,delivered
+ORD-000058,CUST-0211,SSD 500GB,Gaming,3,1201.35,3604.05,0.099,3247.25,2024-03-21,Middle East,Alice Johnson,1,shipped
+ORD-000059,CUST-0416,Wireless Headphones,Computers,8,186.94,1495.52,0.067,1395.32,2024-06-12,Middle East,Jack Anderson,0,pending
+ORD-000060,CUST-0005,Keyboard Mechanical,Electronics,3,243.66,730.98,0.035,705.4,2024-09-09,Latin America,Frank Miller,0,pending
+ORD-000061,CUST-0398,Hard Drive 1TB,Electronics,9,851.37,7662.33,0.137,6612.59,2024-10-28,Asia Pacific,Jack Anderson,1,cancelled
+ORD-000062,CUST-0417,Monitor 4K,Computers,8,215.9,1727.2,0.162,1447.39,2024-01-31,Asia Pacific,Alice Johnson,1,processing
+ORD-000063,CUST-0281,Wireless Headphones,Computers,6,990.86,5945.16,0.132,5160.4,2024-03-11,Europe,Henry Taylor,1,shipped
+ORD-000064,CUST-0301,Webcam HD,Gaming,3,320.48,961.44,0.011,950.86,2024-12-23,Middle East,Carol Davis,1,pending
+ORD-000065,CUST-0050,Router WiFi,Audio,8,647.34,5178.72,0.088,4722.99,2024-06-19,Europe,David Wilson,1,processing
+ORD-000066,CUST-0116,Graphics Card,Electronics,10,1757.42,17574.2,0.088,16027.67,2024-02-11,Latin America,Carol Davis,0,delivered
+ORD-000067,CUST-0465,Tablet Ultra,Computers,5,1921.64,9608.2,0.146,8205.4,2024-04-06,Asia Pacific,Ivy Wang,1,pending
+ORD-000068,CUST-0252,Hard Drive 1TB,Electronics,4,449.2,1796.8,0.086,1642.28,2024-01-05,Middle East,Alice Johnson,0,shipped
+ORD-000069,CUST-0156,Monitor 4K,Gaming,5,909.09,4545.45,0.115,4022.72,2024-04-01,Europe,Carol Davis,0,processing
+ORD-000070,CUST-0079,Keyboard Mechanical,Gaming,9,1387.15,12484.35,0.078,11510.57,2024-04-05,North America,Carol Davis,0,processing
+ORD-000071,CUST-0440,Smart Watch,Accessories,8,135.05,1080.4,0.137,932.39,2024-10-22,Asia Pacific,Grace Chen,0,delivered
+ORD-000072,CUST-0166,"Laptop Pro 15""",Gaming,5,268.85,1344.25,0.159,1130.51,2024-08-25,Middle East,Jack Anderson,1,delivered
+ORD-000073,CUST-0244,"Laptop Pro 15""",Computers,6,481.48,2888.88,0.179,2371.77,2024-05-08,Asia Pacific,Eve Brown,0,processing
+ORD-000074,CUST-0094,SSD 500GB,Electronics,3,545.92,1637.76,0.183,1338.05,2024-11-19,North America,Bob Smith,0,processing
+ORD-000075,CUST-0433,Smartphone X,Accessories,8,1181.27,9450.16,0.105,8457.89,2024-11-05,Latin America,Frank Miller,1,processing
+ORD-000076,CUST-0130,Router WiFi,Electronics,9,1981.42,17832.78,0.037,17172.97,2024-12-18,Europe,Carol Davis,0,shipped
+ORD-000077,CUST-0262,Smartphone X,Audio,3,1155.6,3466.8,0.173,2867.04,2024-08-06,North America,Ivy Wang,0,delivered
+ORD-000078,CUST-0390,Graphics Card,Gaming,3,1987.58,5962.74,0.174,4925.22,2024-10-22,Middle East,Frank Miller,1,shipped
+ORD-000079,CUST-0211,Smart Watch,Computers,9,801.61,7214.49,0.176,5944.74,2024-03-09,North America,Alice Johnson,0,delivered
+ORD-000080,CUST-0192,Smart Watch,Accessories,5,1684.42,8422.1,0.166,7024.03,2024-09-27,Europe,Eve Brown,1,cancelled
+ORD-000081,CUST-0230,Smartphone X,Computers,6,1494.36,8966.16,0.048,8535.78,2024-10-24,Asia Pacific,Grace Chen,0,pending
+ORD-000082,CUST-0196,Smartphone X,Accessories,7,1631.08,11417.56,0.122,10024.62,2024-03-28,Middle East,Alice Johnson,0,pending
+ORD-000083,CUST-0156,Smartphone X,Audio,9,98.04,882.36,0.061,828.54,2024-11-13,Europe,Jack Anderson,0,delivered
+ORD-000084,CUST-0333,Smart Watch,Computers,3,106.32,318.96,0.068,297.27,2024-11-13,Latin America,Alice Johnson,1,pending
+ORD-000085,CUST-0194,Gaming Mouse,Computers,2,1332.79,2665.58,0.108,2377.7,2024-10-05,Middle East,Jack Anderson,0,delivered
+ORD-000086,CUST-0406,Wireless Headphones,Audio,2,1941.58,3883.16,0.073,3599.69,2024-11-02,Middle East,Grace Chen,0,shipped
+ORD-000087,CUST-0406,Smartphone X,Electronics,3,1190.5,3571.5,0.136,3085.78,2024-04-21,Europe,Bob Smith,1,cancelled
+ORD-000088,CUST-0297,Wireless Headphones,Audio,1,863.96,863.96,0.04,829.4,2024-11-01,Europe,Frank Miller,0,pending
+ORD-000089,CUST-0283,SSD 500GB,Accessories,4,1852.66,7410.64,0.039,7121.63,2024-03-05,Asia Pacific,David Wilson,1,pending
+ORD-000090,CUST-0012,Smartphone X,Computers,9,1734.09,15606.81,0.035,15060.57,2024-11-05,Middle East,Grace Chen,1,processing
+ORD-000091,CUST-0436,Speaker Bluetooth,Audio,6,686.37,4118.22,0.112,3656.98,2024-08-23,Middle East,Frank Miller,1,pending
+ORD-000092,CUST-0434,Tablet Ultra,Electronics,1,62.72,62.72,0.141,53.88,2024-01-13,Europe,Eve Brown,1,cancelled
+ORD-000093,CUST-0018,Wireless Headphones,Gaming,1,1924.21,1924.21,0.024,1878.03,2024-08-10,Europe,Alice Johnson,0,cancelled
+ORD-000094,CUST-0291,Processor Intel,Gaming,1,129.78,129.78,0.124,113.69,2024-10-30,Europe,Carol Davis,0,cancelled
+ORD-000095,CUST-0027,Graphics Card,Accessories,3,1302.71,3908.13,0.125,3419.61,2024-04-01,Asia Pacific,Carol Davis,1,shipped
+ORD-000096,CUST-0424,Processor Intel,Audio,10,1062.37,10623.7,0.196,8541.45,2024-03-07,Latin America,Carol Davis,1,delivered
+ORD-000097,CUST-0404,Keyboard Mechanical,Computers,1,678.17,678.17,0.019,665.28,2024-10-31,Europe,David Wilson,1,cancelled
+ORD-000098,CUST-0333,Hard Drive 1TB,Audio,6,1411.77,8470.62,0.064,7928.5,2024-01-29,North America,Bob Smith,0,pending
+ORD-000099,CUST-0162,Router WiFi,Accessories,4,87.92,351.68,0.059,330.93,2024-12-16,Europe,Frank Miller,0,shipped
+ORD-000100,CUST-0075,Wireless Headphones,Computers,5,233.92,1169.6,0.171,969.6,2024-08-07,Europe,Alice Johnson,1,pending
